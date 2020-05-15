@@ -1,0 +1,31 @@
+.meme{
+
+	position: relative;
+	text-align: center;
+}
+
+
+.meme__img{
+	max-width: 80%;
+}
+
+.meme__top{
+    color: white;
+	font-size: 40px;
+	position: absolute;
+	top:30px;
+	left:50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 3px 2px black
+}
+
+.meme__bottom{
+    color: white;
+	font-size: 40px;
+	position: absolute;
+	bottom:0px;
+	left:50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 3px 2px black
+
+}
