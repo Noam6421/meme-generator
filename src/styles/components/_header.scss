@@ -1,5 +1,5 @@
 .header{
-    background: $dark-blue;
+    background: $blue-green;
     align-items: center;
     display: flex;
     justify-content: space-around;
@@ -12,7 +12,7 @@
 }
 
 .header__title{
-    color: white;
+    color: $dark-blue;
     text-decoration: none;
     margin: 0;
 }
